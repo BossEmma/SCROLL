@@ -1,0 +1,4 @@
+moviepy
+yt-dlp
+pillow
+piper-tts
